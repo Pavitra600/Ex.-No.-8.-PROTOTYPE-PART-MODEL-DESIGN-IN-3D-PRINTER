@@ -46,9 +46,11 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![WhatsApp Image 2025-04-22 at 10 14 57_acc9db41](https://github.com/user-attachments/assets/9801f1c0-209e-426a-9511-696fa9c9e42a)
+![WhatsApp Image 2025-04-22 at 10 14 56_4adda4c8](https://github.com/user-attachments/assets/8386bc41-9366-4856-8e3a-335b43e64ad7)
 
-### Name:
-### Register Number:
+### Name: Pavitra.J
+### Register Number: 212224110043
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
